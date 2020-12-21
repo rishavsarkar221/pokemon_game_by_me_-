@@ -1,0 +1,47 @@
+body {color: white;}
+.fight {background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2fb2821a-1406-4a1d-9b04-6668f278e944/d843okx-eb13e8e4-0fa4-4fa9-968a-e0f36ff168de.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMmZiMjgyMWEtMTQwNi00YTFkLTliMDQtNjY2OGYyNzhlOTQ0XC9kODQzb2t4LWViMTNlOGU0LTBmYTQtNGZhOS05NjhhLWUwZjM2ZmYxNjhkZS5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.bhj0Qs9G9h8on8c0mY3t31JfbxhhtPT09e-I3RmEQ1I'); background-size: cover;}
+.p1,.p2 {float: left; width: 10%;}
+.p2 {margin-left: 90%; margin-top: -16%;}
+
+.pokemon1 {width: 12%; margin-left: 7rem;} .pokemon2 {width: 12%; margin-right: 7rem;}
+
+h3 {color: white;}
+
+.hP1 {float: left; padding-left: 3rem;}
+.hP2 {float: right; padding-right: 10rem;}
+
+.pressed {display: none;}
+
+.tackle-effect, .fire-effect, .seismicToss-effect {position: absolute; bottom: 10%; right: 17rem; display: none; width: 40%;}
+
+.mess {font-size: 30px;}
+
+.fire-effect1 {position: absolute; bottom: 40%; left: 17rem; display: none; width: 40%;}
+
+.message {font-family: 'Langar', cursive; color: white; background-color: #66bfbf; border-color: yellow; height: 200px; font-size: 30px;}
+
+.message button {border-color: yellow; border-width: 0.5rem; background-color: white;}
+
+.hp11 {background-color: white; color: black;}
+.hp1 {color: red;}
+
+span {color: red;}
+
+.option {cursor: pointer;}
+
+.controlLobby {display: none;}
+
+.menu {background-color: #fdb827; height: 970px;}
+
+.pikachu {position: relative; left: -37rem; width: 12%;}
+
+.choose1 {width: 20%; float: left;}
+
+.option:hover {font-size: 50px;}
+.option {color: white;}
+
+h4:hover {font-size: 40px; cursor: pointer;} 
+
+.won, .lost h1 h2 {font-family: 'Pacifico', cursive; margin-top: 20%;}
+
+.heal {border-color: lime;}
